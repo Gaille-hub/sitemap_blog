@@ -1,4 +1,9 @@
-User-agent: *
-Disallow:
+User-agent: Mediapartners-Google
+Disallow: 
 
-Sitemap: https://gaille-hub.github.io/sitemap_blog/sitemap.xml
+User-agent: *
+Disallow: /search
+Disallow: /share-widget
+Allow: /
+
+Sitemap: https://intricationquantiquenaturelle.blogspot.com/sitemap.xml
