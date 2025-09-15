@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://gaille-hub.github.io/sitemap_blog/sitemap.xml
